@@ -30,9 +30,9 @@ We hope you enjoy using the Weather Forecast App. Feel free to contribute or enh
 
 ## 📜 How to Use  
 
->### 1️⃣ Clone the repository:  git clone https://github.com/Mostafamahmoud12824/weather-forecast-app.git
->### 2️⃣ Open index.html in a browser.
->### 3️⃣ Type a city name in the search box to fetch its weather forecast.
+>#### 1️⃣ Clone the repository:  git clone https://github.com/Mostafamahmoud12824/weather-forecast-app.git
+>#### 2️⃣ Open index.html in a browser.
+>#### 3️⃣ Type a city name in the search box to fetch its weather forecast.
 
 ---
 
